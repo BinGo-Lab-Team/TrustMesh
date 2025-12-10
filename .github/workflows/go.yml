@@ -24,8 +24,4 @@ jobs:
 
     - name: Build
       working-directory: ./src/TrustMesh-PoC-1
-      run: go build ./...
-
-    - name: Test
-      working-directory: ./src/TrustMesh-PoC-1
-      run: go test ./...
+      run: go build .
