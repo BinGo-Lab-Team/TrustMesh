@@ -1,0 +1,9 @@
+# config files
+.env
+.env_bootstrap
+
+# IDE files
+.idea/
+
+# runtime
+volumes/
