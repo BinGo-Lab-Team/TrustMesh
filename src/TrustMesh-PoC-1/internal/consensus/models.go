@@ -5,7 +5,7 @@ const (
 	// ScoreBurrs 广播阈值
 	ScoreBurrs = 10
 	// DiffuseHop 传播节点数量（具体逻辑参考代码）
-	DiffuseHop = 10
+	DiffuseHop = 100
 
 	// MaxReputation 最大信誉值
 	MaxReputation = 10_000

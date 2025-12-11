@@ -1,6 +1,6 @@
 module TrustMesh-PoC-1
 
-go 1.25
+go 1.25.0
 
 require (
 	github.com/glebarez/sqlite v1.11.0

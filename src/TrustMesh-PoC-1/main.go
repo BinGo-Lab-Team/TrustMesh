@@ -23,7 +23,7 @@ func main() {
 
 	_, pk, err := keys.LoadOrCreateKey()
 	if err != nil {
-		logger.Error("Error loading keys: ", err)
+		logger.Error("Error loading keys: %v", err)
 	} else {
 		logger.Info("My NodeId: %v", blake3.Sum256(pk[:]))
 	}
@@ -36,7 +36,7 @@ func main() {
 
 	flag, err := tools.EnsureFilePath(db.Path())
 	if err != nil {
-		logger.Fatal("Database path error: ", err)
+		logger.Fatal("Database path error: %v", err)
 		return
 	}
 
