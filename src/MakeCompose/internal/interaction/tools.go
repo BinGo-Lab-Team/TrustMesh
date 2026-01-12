@@ -10,7 +10,7 @@ import (
 func YesOrNo(question string) bool {
 	for {
 		var input string
-		fmt.Printf(question + " (y/n):")
+		fmt.Print(question + " (y/n):")
 
 		_, err := fmt.Scanln(&input)
 		if err != nil {

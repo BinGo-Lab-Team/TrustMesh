@@ -193,6 +193,4 @@ iwr https://github.com/BinGo-Lab-Team/TrustMesh/releases/download/PoC-1.0.0/Wind
 
 ## 补充信息
 
-如有问题可以提交 Issues 或发邮件给我 yangzhixun-@outlook.com 我非常愿意帮助你！
-
-本文档遵循 [CC BY 4.0](./CC BY 4.0) 发布
+如有问题可以提交 Issues 或发邮件给我 yangzhixun-@outlook.com

@@ -182,6 +182,4 @@ Run it and input the volumes path and round number.
 
 ## Additional Information
 
-If you have any questions, please submit them on Issues or email me at yangzhixun-@outlook.com I'm more than willing to help you!
-
-This document is published under the [CC BY 4.0](./CC BY 4.0) license.
+If you have any questions, please submit them on Issues or email me at yangzhixun-@outlook.com
